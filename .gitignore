@@ -1,0 +1,7 @@
+#ignorar
+*.exe
+*.txt
+
+#ignorar carpeta node_modules
+node_modules/
+.sass-cache
